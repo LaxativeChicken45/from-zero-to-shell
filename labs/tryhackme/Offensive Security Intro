@@ -8,7 +8,7 @@ Why I did it:
 dirb allowed me to see hidden urls such as http://fakebank.thm/bank-transfer
 
 What I learnt:
-dirb was needed to find the hidden admin panel to be able to deposit $2000 into the account ending in 881
+dirb was needed to find the hidden admin panel to be able to deposit $2000 into the account ending in 8881
 
 Mistakes I made:
 none
