@@ -1,0 +1,19 @@
+Room: [Defensive Security intro]
+  Date: 13-07-2026
+
+What I did:
+I used a monitoring tool 
+
+Why I did it:
+I was able to find an IP address from an attacker
+I was also able to find the latest url the attacker used
+I used a firewall to block the IP of the attacker
+
+What I learnt:
+The monitoring dashboard contains lots of tools to be able to track and then stop attackers
+
+Mistakes I made:
+none
+
+Questions I have:
+none
