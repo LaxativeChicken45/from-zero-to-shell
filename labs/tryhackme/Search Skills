@@ -1,0 +1,22 @@
+Room: [Search Skills]
+  Date: 14-07-2026
+
+What I did:
+I used Shodan 
+I used VirusTotal 
+looked at nc man page
+
+Why I did it:
+i used shodan to scan for domains
+I used VirusTotal to scan a file for malicious content
+to see how to run the command nc
+
+What I learnt:
+there are many tools used for different skill that allow for making your self safe and finding public networks
+man page allowed me to be able to see what the command does and how to use it
+
+Mistakes I made:
+none
+
+Questions I have:
+none
